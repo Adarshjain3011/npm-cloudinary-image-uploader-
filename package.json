@@ -1,0 +1,22 @@
+{
+  "name": "upload-image-to-cloudinary",
+  "version": "1.0.0",
+  "description": "this npm package will help to upload image to cloudinary ",
+  "main": "index.js",
+  "scripts": {
+    "test": "text run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarshjain3011/npm-cloudinary-image-uploader-.git"
+  },
+  "keywords": [
+    "cloudinary-image-uploader"
+  ],
+  "author": "Adarsh jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adarshjain3011/npm-cloudinary-image-uploader-/issues"
+  },
+  "homepage": "https://github.com/Adarshjain3011/npm-cloudinary-image-uploader-#readme"
+}
