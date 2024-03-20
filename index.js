@@ -36,5 +36,4 @@ async function UploadImageToCloudinary (file, folder = "image-data", height = "1
 
 };
 
-
-
+module.exports = UploadImageToCloudinary;
