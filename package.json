@@ -18,6 +18,8 @@
   "bugs": {
     "url": "https://github.com/Adarshjain3011/npm-cloudinary-image-uploader-/issues"
   },
-  "homepage": "https://github.com/Adarshjain3011/npm-cloudinary-image-uploader-#readme"
+  "homepage": "https://github.com/Adarshjain3011/npm-cloudinary-image-uploader-#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
 }
-
