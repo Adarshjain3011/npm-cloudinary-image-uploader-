@@ -13,7 +13,7 @@ async function UploadImageToCloudinary (file, folder = "image-data", height = "1
 
     }
 
-    cloudinary.config({
+    await cloudinary.config({
       cloud_name,
       api_key,
       api_secret,
